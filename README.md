@@ -1,3 +1,4 @@
 # ivt-lab
 This is a readme file.
-File modified from branch-A
+File modified from both branches.
+
