@@ -15,6 +15,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
+  //nothing happened :(
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
 
